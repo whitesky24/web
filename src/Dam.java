@@ -16,8 +16,8 @@ public class Dam {
               System.out.println("singer : " + e.select("td.singer").text());
               System.out.println("request : " + e.select("td.request").text());
     		}
-/*            JSONObject jobj = new JSONObject();
-*/
+            JSONObject jobj = new JSONObject();
+
 
             }
     }
